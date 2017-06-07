@@ -23,3 +23,7 @@ we could treat c.cprt() as Child.cprt(c)
 [see more](http://python.jobbole.com/81921/)
 
 [or here](https://stackoverflow.com/questions/2709821/what-is-the-purpose-of-self)
+
+## The order of inheritance
+
+![inheritance code](/home/lulu/Pictures/Screenshot from 2017-06-07 18-07-36.png)
