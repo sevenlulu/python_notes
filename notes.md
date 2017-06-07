@@ -26,4 +26,4 @@ we could treat c.cprt() as Child.cprt(c)
 
 ## The order of inheritance
 
-![inheritance code](./Screenshot from 2017-06-07 18-07-36.png)
+![inheritance code](python_notes/Screenshot from 2017-06-07 18-07-36.png)
