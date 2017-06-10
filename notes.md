@@ -2,8 +2,9 @@
 
 * The word **self** is not strict. We could replace it with whatever we want.
 * self represents the instance of the class.
-
+```
 for instance:  
+
 Class Parent:  
   def pprt(self):  
     print self  
@@ -16,7 +17,7 @@ c.cprt()
 c.pprt()
 p = Parent() # p is the instance of Parent() class
 p.pprt()
-
+```
 
 we could treat c.cprt() as Child.cprt(c)
 
